@@ -1,0 +1,10 @@
+t a/gitlog b/gitlog
+index a2d681f..39ff51b 100644
+--- a/gitlog
++++ b/gitlog
+@@ -1,2 +1,5 @@
+ git checkout -b zhouxiaoxiang
+  touch empty
+  +git add empty
+  +git commit -m 'empty file'
+  
