@@ -1,0 +1,14 @@
+ssphrase for key '/c/Users/Dick/.ssh/id_rsa':
+* remote origin
+  Fetch URL: git@github.com:silentman/my-test.git
+    Push  URL: git@github.com:silentman/my-test.git
+      HEAD branch: master
+        Remote branches:
+	    master        tracked
+	        zhouxiaoxiang tracked
+		  Local branch configured for 'git pull':
+		      master merges with remote master
+		        Local refs configured for 'git push':
+			    master        pushes to master        (up to date)
+			        zhouxiaoxiang pushes to zhouxiaoxiang (up to date)
+
